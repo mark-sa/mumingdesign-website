@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 950" role="img" aria-label="Project hero placeholder">
+  <rect width="1800" height="950" fill="#bdb6ab"/>
+  <rect x="180" y="150" width="1440" height="620" fill="none" stroke="#f4efe6" stroke-width="2"/>
+  <path d="M180 520h1440M620 150v620M1180 150v620" stroke="#f4efe6" stroke-width="2" opacity=".38"/>
+  <rect x="760" y="365" width="280" height="155" fill="#efeadf" opacity=".35"/>
+  <text x="90" y="860" fill="#f7f3ea" font-family="Arial, sans-serif" font-size="34" letter-spacing="7">PROJECT DETAIL</text>
+</svg>

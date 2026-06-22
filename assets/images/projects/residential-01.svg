@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" role="img" aria-label="Residential project placeholder">
+  <rect width="900" height="1125" fill="#e2ddd4"/>
+  <rect x="130" y="170" width="640" height="760" fill="#c3baae"/>
+  <rect x="210" y="260" width="480" height="260" fill="#f4f0e8" opacity=".55"/>
+  <path d="M210 690h480M330 600h240" stroke="#403d38" stroke-width="3" opacity=".55"/>
+  <text x="80" y="1030" fill="#34322f" font-family="Arial, sans-serif" font-size="26" letter-spacing="5">RESIDENTIAL 01</text>
+</svg>

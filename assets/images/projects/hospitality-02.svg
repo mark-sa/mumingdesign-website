@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" role="img" aria-label="Hospitality lounge placeholder">
+  <rect width="900" height="1125" fill="#b5afa5"/>
+  <circle cx="450" cy="390" r="150" fill="#ded8ce" opacity=".42"/>
+  <path d="M120 780h660M180 650h540M260 520h380" stroke="#eee8df" stroke-width="3" opacity=".58"/>
+  <rect x="150" y="780" width="600" height="110" fill="#4b4742" opacity=".55"/>
+  <text x="80" y="1030" fill="#2f2d2a" font-family="Arial, sans-serif" font-size="26" letter-spacing="5">HOSPITALITY 02</text>
+</svg>

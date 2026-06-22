@@ -1,0 +1,239 @@
+﻿[
+    {
+        "id":  "yuyao-yaofuyan-hotel",
+        "name_cn":  "浙江余姚姚府宴酒店",
+        "name_en":  "Yuyao Yaofuyan Hotel",
+        "type":  "Hospitality",
+        "category":  "hospitality",
+        "location":  "Yuyao, Zhejiang",
+        "year":  "2025",
+        "status":  "Concept Design",
+        "cover":  "assets/images/projects/hotel/yuyao_yaofuyan_hotel_01.jpg.jpg",
+        "images":  [
+                       "assets/images/projects/hotel/yuyao_yaofuyan_hotel_01.jpg.jpg",
+                       "assets/images/projects/hotel/yuyao_yaofuyan_hotel_02.jpg.jpg",
+                       "assets/images/projects/hotel/yuyao_yaofuyan_hotel_03.jpg.jpg",
+                       "assets/images/projects/hotel/yuyao_yaofuyan_hotel_04.jpg.jpg"
+                   ],
+        "description":  "以地域文化、宴会体验与酒店公共空间秩序为基础，建立具有场所记忆与当代表达的酒店空间。",
+        "strategy":  [
+                         "以抵达动线和公共界面建立清晰的酒店序列。",
+                         "控制材质与光线层次，形成克制而有识别度的接待氛围。",
+                         "在宴会、休憩与运营效率之间保持平衡。"
+                     ],
+        "tags":  [
+                     "Hospitality",
+                     "Hotel",
+                     "Interior Design"
+                 ]
+    },
+    {
+        "id":  "western-sichuan-mountain-retreat",
+        "name_cn":  "川西山宿",
+        "name_en":  "A Mountain Retreat in Western Sichuan",
+        "type":  "Mountain Retreat / Boutique Lodge / High-end Travel Residence",
+        "category":  "hospitality",
+        "location":  "Western Sichuan, China",
+        "year":  "2025",
+        "status":  "Concept Design",
+        "cover":  "assets/images/projects/hospitality/western-sichuan-mountain-retreat/western_sichuan_mountain_retreat_01.jpeg",
+        "images":  [
+                       "assets/images/projects/hospitality/western-sichuan-mountain-retreat/western_sichuan_mountain_retreat_01.jpeg",
+                       "assets/images/projects/hospitality/western-sichuan-mountain-retreat/western_sichuan_mountain_retreat_02.jpeg",
+                       "assets/images/projects/hospitality/western-sichuan-mountain-retreat/western_sichuan_mountain_retreat_03.jpeg",
+                       "assets/images/projects/hospitality/western-sichuan-mountain-retreat/western_sichuan_mountain_retreat_04.jpeg",
+                       "assets/images/projects/hospitality/western-sichuan-mountain-retreat/western_sichuan_mountain_retreat_05.jpeg",
+                       "assets/images/projects/hospitality/western-sichuan-mountain-retreat/western_sichuan_mountain_retreat_06.jpeg"
+                   ],
+        "description":  "川西山宿以川西山地建筑为灵感来源，通过裸露木梁、深檐坡屋顶、暖土色墙面、手工织物与自然石材，构建出一个安静、温暖且具有在地记忆的山地度假空间。设计避免直接复制传统民俗符号，而是以当代室内语言转译川西建筑中的结构、光影与材料关系，使空间在粗粝与精致、自然与舒适之间形成平衡。项目通过山景餐厅、壁炉休息区、客房、半户外泡池和接待空间，将自然景观、季节变化与室内生活紧密连接，呈现出一种更克制、更高级的川西山地旅居体验。",
+        "strategy":  [
+                         "提取川西山地建筑中的木构、坡屋顶、深檐、格栅和院落关系，转化为更克制、现代的度假空间语言。",
+                         "以旧木、肌理涂料、粗陶、亚麻、藤编、石材和手工织物构建空间肌理，强化自然、温暖、粗粝而高级的触感。",
+                         "利用山地自然光、木格栅投影、壁炉火光和低照度灯光，让空间在不同时间段呈现出不同的情绪层次。",
+                         "通过大窗、露台、泡池、山景餐厅和半户外空间，将森林、雪山、晨雾和季节变化纳入空间体验之中。",
+                         "项目不停留在表层民族符号，而是以更国际化、更克制的方式重构川西山宿的精神气质。"
+                     ],
+        "tags":  [
+                     "Hospitality",
+                     "Mountain Retreat",
+                     "Boutique Lodge",
+                     "Naturalism",
+                     "Local Culture"
+                 ]
+    },
+    {
+        "id":  "taiwan-chiayi-villa",
+        "name_cn":  "台湾嘉义别墅",
+        "name_en":  "Chiayi Private Villa",
+        "type":  "Residential",
+        "category":  "residential",
+        "location":  "Chiayi, Taiwan",
+        "year":  "2025",
+        "status":  "Concept Design",
+        "cover":  "assets/images/projects/residential/taiwan_villa_living_01.jpg.jpg",
+        "images":  [
+                       "assets/images/projects/residential/taiwan_villa_living_01.jpg.jpg",
+                       "assets/images/projects/residential/taiwan_villa_Entrance_01.jpg.jpeg",
+                       "assets/images/projects/residential/taiwan_villa_bedroom_01.jpg.jpg",
+                       "assets/images/projects/residential/taiwan_villa_basement_01.jpg.jpeg",
+                       "assets/images/projects/residential/taiwan_villa_outdoor_01.jpg.jpg"
+                   ],
+        "description":  "以当代自然主义为基调，通过光影、材质与庭院关系建立低调而克制的居住体验。",
+        "strategy":  [
+                         "强化室内外关系，让自然光成为空间秩序的一部分。",
+                         "以温润材料和低饱和色彩回应私宅的长期居住感。",
+                         "在公共会客与私密起居之间建立安静的层次。"
+                     ],
+        "tags":  [
+                     "Residential",
+                     "Villa",
+                     "Naturalism"
+                 ]
+    },
+    {
+        "id":  "liaigre-residence",
+        "name_cn":  "LIAIGRE 主题住宅",
+        "name_en":  "LIAIGRE-inspired Residence",
+        "type":  "Residential",
+        "category":  "residential",
+        "location":  "China",
+        "year":  "2026",
+        "status":  "Concept Design",
+        "cover":  "assets/images/projects/residential/liaigre_residence_living_01.jpg.png",
+        "images":  [
+                       "assets/images/projects/residential/liaigre_residence_living_01.jpg.png",
+                       "assets/images/projects/residential/liaigre_residence_Dining room_01.jpg.png",
+                       "assets/images/projects/residential/liaigre_residence_bedroom_01.jpg.png",
+                       "assets/images/projects/residential/liaigre_residence_bathroom_01.jpg.png"
+                   ],
+        "description":  "以克制的法式现代气质、深色木作、天然织物与安静的比例关系，建立具有 quiet luxury 气质的住宅空间。",
+        "strategy":  [
+                         "以比例、材质和家具尺度控制整体气质。",
+                         "减少装饰性语言，强调触感、光线与秩序。",
+                         "通过统一色温和材质关系形成完整生活场景。"
+                     ],
+        "tags":  [
+                     "Residential",
+                     "Quiet Luxury",
+                     "LIAIGRE"
+                 ]
+    },
+    {
+        "id":  "sanya-lingshui-villa",
+        "name_cn":  "三亚陵水别墅",
+        "name_en":  "Sanya Lingshui Villa",
+        "type":  "Residential",
+        "category":  "residential",
+        "location":  "Lingshui, Sanya",
+        "year":  "2023",
+        "status":  "Concept Design",
+        "cover":  "assets/images/projects/residential/sanya_lingshui_villa_01.jpg.png",
+        "images":  [
+                       "assets/images/projects/residential/sanya_lingshui_villa_01.jpg.png",
+                       "assets/images/projects/residential/sanya_lingshui_villa_02.jpg.png",
+                       "assets/images/projects/residential/sanya_lingshui_villa_03.jpg.png",
+                       "assets/images/projects/residential/sanya_lingshui_villa_04.jpg.png"
+                   ],
+        "description":  "围绕海岛居住、自然光线、度假氛围与高端私宅体验，建立具有松弛感和空间秩序的别墅设计。",
+        "strategy":  [
+                         "以度假尺度处理起居、休息与景观的关系。",
+                         "使用轻盈材质与自然色系控制空间温度。",
+                         "让视觉重心回到光、风、植物和人的停留。"
+                     ],
+        "tags":  [
+                     "Residential",
+                     "Villa",
+                     "Resort Living"
+                 ]
+    },
+    {
+        "id":  "xilin-fashion-experience-store",
+        "name_cn":  "希琳服装品牌线下体验店",
+        "name_en":  "Xilin Fashion Brand Experience Store",
+        "type":  "Commercial",
+        "category":  "commercial",
+        "location":  "China",
+        "year":  "2025",
+        "status":  "Concept Design",
+        "cover":  "assets/images/projects/commercial/xilin_fashion_store_01.jpg.jpg",
+        "images":  [
+                       "assets/images/projects/commercial/xilin_fashion_store_01.jpg.jpg",
+                       "assets/images/projects/commercial/xilin_fashion_store_02.jpg.jpg",
+                       "assets/images/projects/commercial/xilin_fashion_store_03.jpg.jpg",
+                       "assets/images/projects/commercial/xilin_fashion_store_04.jpg.jpg",
+                       "assets/images/projects/commercial/xilin_fashion_store_05.jpg.jpg",
+                       "assets/images/projects/commercial/xilin_fashion_store_06.jpg.jpg",
+                       "assets/images/projects/commercial/xilin_fashion_store_07.jpg.jpg",
+                       "assets/images/projects/commercial/xilin_fashion_store_08.jpg.jpg",
+                       "assets/images/projects/commercial/xilin_fashion_store_09.jpg.jpg"
+                   ],
+        "description":  "以品牌体验、展示动线、空间记忆点与消费场景为核心，建立兼具展示、接待与传播属性的线下体验空间。",
+        "strategy":  [
+                         "以品牌调性决定空间色彩、陈列节奏与顾客路径。",
+                         "让展示、试衣、接待与社交传播自然衔接。",
+                         "通过克制材质让服装与人的活动成为空间焦点。"
+                     ],
+        "tags":  [
+                     "Commercial",
+                     "Retail",
+                     "Fashion Store"
+                 ]
+    },
+    {
+        "id":  "forest-lodge-pbsa",
+        "name_cn":  "Forest Lodge PBSA",
+        "name_en":  "Forest Lodge PBSA",
+        "type":  "Public Space",
+        "category":  "public-space",
+        "location":  "Sydney, Australia",
+        "year":  "2026",
+        "status":  "Concept Design",
+        "cover":  "assets/images/projects/public-space/forest_lodge_pbsa_01.jpg.png",
+        "images":  [
+                       "assets/images/projects/public-space/forest_lodge_pbsa_01.jpg.png",
+                       "assets/images/projects/public-space/forest_lodge_pbsa_02.jpg.png",
+                       "assets/images/projects/public-space/forest_lodge_pbsa_03.jpg.jpg",
+                       "assets/images/projects/public-space/forest_lodge_pbsa_04.jpg.jpeg"
+                   ],
+        "description":  "围绕学生公寓公共空间的社交、学习、共享与动线体验，建立具有社区感和运营逻辑的公共空间系统。",
+        "strategy":  [
+                         "以公共活动强度组织空间层级。",
+                         "让学习、社交与停留区域具有清晰边界和弹性。",
+                         "通过耐用材料与柔和照明兼顾运营和氛围。"
+                     ],
+        "tags":  [
+                     "Public Space",
+                     "PBSA",
+                     "Student Housing"
+                 ]
+    },
+    {
+        "id":  "ai-assisted-design-workflow",
+        "name_cn":  "AI 辅助设计工作流",
+        "name_en":  "AI-assisted Design Workflow",
+        "type":  "AI Workflow",
+        "category":  "ai-workflow",
+        "location":  "Workflow",
+        "year":  "2026",
+        "status":  "Workflow System",
+        "cover":  "assets/images/projects/ai-workflow/ai_workflow_concept_01.png",
+        "images":  [
+                       "assets/images/projects/ai-workflow/ai_workflow_site_photo_01.jpg.png",
+                       "assets/images/projects/ai-workflow/ai_workflow_white_model_01.png",
+                       "assets/images/projects/ai-workflow/ai_workflow_concept_01.png",
+                       "assets/images/projects/ai-workflow/ai_workflow_local_edit_01.png",
+                       "assets/images/projects/ai-workflow/ai_workflow_perspective_01.jpg.png"
+                   ],
+        "description":  "从现场照片、视觉矫正、白模处理、空间意向、局部修改到图像强化，建立系统化 AI 辅助室内设计表达流程。",
+        "strategy":  [
+                         "用 AI 提升概念探索与视觉沟通速度。",
+                         "将生成结果纳入专业设计判断，而不是替代设计决策。",
+                         "形成可复用的提案图像、汇报图像与空间推演流程。"
+                     ],
+        "tags":  [
+                     "AI Workflow",
+                     "Interior Design",
+                     "Visualization"
+                 ]
+    }
+]

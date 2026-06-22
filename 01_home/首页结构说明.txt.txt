@@ -1,0 +1,33 @@
+首页需要包含以下模块：
+
+1.Hero 首屏大图
+ .使用高端室内空间横图。
+ .图片建议来自 assets/images/home/home_hero_01.jpg。
+ .首屏需要体现睦铭空间设计事务所的品牌气质。
+ .画面不要太花，重点是空间感、光线、留白和高级感。
+2.品牌标题
+ .英文：MUMING SPACE DESIGN
+ .中文：睦铭空间设计事务所
+3.一句话介绍
+ .中文：专注酒店、住宅、商业、公共空间与 AI 辅助设计工作流的室内设计事务所。
+ .英文：Interior Design Studio focusing on hospitality, residential, commercial, public space and AI-assisted design workflow.
+4.精选项目
+建议展示：
+ .浙江余姚姚府宴酒店
+ .北京前门英迪格酒店
+ .台湾嘉义别墅
+ .LIAIGRE主题住宅
+ .三亚陵水别墅
+ .希琳服装品牌线下体验馆
+ .Forest Lodge PBSA
+5.设计理念
+强调空间结构、比例尺度、材料秩序、光线逻辑、品牌气质和人的体验。
+6.AI辅助设计工作流
+展示从现场照片、视角矫正、白膜/素模、空间意向、局部修改、Magnific 强化到视频首帧尾帧的流程。
+7.服务入口
+ .空间设计
+ .AI辅助设计
+ .设计顾问
+ .工作流培训
+8.联系入口
+引导进入 Contact 页面。

@@ -1,0 +1,12 @@
+{
+"brand_en": "MUMING SPACE DESIGN",
+"brand_cn": "睦铭空间设计事务所",
+"tagline_en": "Interior Design Studio focusing on hospitality, residential, commercial, public space and AI-assisted design workflow.",
+"tagline_cn": "专注酒店、住宅、商业、公共空间与AI辅助设计工作流的室内设计事务所。",
+"email": "请填写邮箱",
+"city": "Shenzhen, China",
+"theme": "quiet luxury",
+"wechat": "请填写微信号",
+"xiaohongshu": "请填写小红书账号",
+"douyin": "请填写抖音账号"
+}

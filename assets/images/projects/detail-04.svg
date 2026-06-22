@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 800" role="img" aria-label="Project room placeholder">
+  <rect width="1600" height="800" fill="#b9b1a6"/>
+  <path d="M100 650h1400V160H100v490Z" fill="none" stroke="#efe9df" stroke-width="2"/>
+  <rect x="220" y="320" width="1160" height="190" fill="#403c38" opacity=".34"/>
+  <circle cx="800" cy="250" r="70" fill="#f2ece2" opacity=".45"/>
+  <text x="80" y="720" fill="#f7f3ea" font-family="Arial, sans-serif" font-size="30" letter-spacing="6">ROOM ATMOSPHERE</text>
+</svg>

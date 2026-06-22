@@ -1,0 +1,18 @@
+Codex 修改规则：
+
+1、不要移动根目录 HTML 文件。
+2、不要移动 assets/css、assets/js、assets/images 的路径。
+3、所有全站视觉修改，优先修改 assets/css/style.css。
+4、所有响应式修改，优先修改 assets/css/responsive.css。
+5、所有导航、菜单、滚动、动画修改，优先修改 assets/js/main.js。
+6、所有作品分类和加载逻辑，优先修改 assets/js/projects.js。
+7、项目数据来自 data/projects.json。
+8、品牌基础信息来自 data/site-config.json。
+9、assets/images 是网站正式展示图片。
+10、assets/videos 是网站正式展示视频。
+11、assets/references 只作为风格参考资料，不直接放入页面，除非明确要求。
+12、修改前需要理解现有结构，不要重做整个网站。
+13、优先局部优化，不要推翻现有网站。
+14、每次修改后需要检查图片路径、CSS路径、JS路径是否正确。
+15、如果发现文件路径不一致，优先保持当前网站可正常打开。
+16、每次修改完成后，说明修改了哪些文件、修改了哪些模块。

@@ -1,0 +1,30 @@
+联系表单字段：
+
+1. Name / 姓名
+2. Company / 公司
+3. Email / 邮箱
+4. Project Type / 项目类型
+5. Message / 留言
+
+项目类型选项：
+
+1. Hospitality 酒店
+2. Residential 住宅
+3. Commercial 商业
+4. Public Space 公共空间
+5. AI Workflow AI辅助设计
+6. Design Consulting 设计顾问
+7. Workflow Training 工作流培训
+
+表单风格要求：
+
+1. 简洁、克制。
+2. 不要花哨。
+3. 字段清晰。
+4. 按钮使用黑白灰风格。
+5. 提交按钮文案：Send Inquiry / 发送咨询
+
+注意：
+第一版可以先做静态表单，不需要真的发送邮件。
+后期再接入表单服务。
+

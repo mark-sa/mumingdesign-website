@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" role="img" aria-label="Material detail placeholder">
+  <rect width="900" height="1125" fill="#e1dcd2"/>
+  <rect x="130" y="180" width="260" height="300" fill="#a9a196"/>
+  <rect x="430" y="180" width="330" height="300" fill="#f4f0e8"/>
+  <rect x="130" y="520" width="630" height="250" fill="#4b4742"/>
+  <text x="80" y="1030" fill="#34322f" font-family="Arial, sans-serif" font-size="26" letter-spacing="5">MATERIAL DETAIL</text>
+</svg>

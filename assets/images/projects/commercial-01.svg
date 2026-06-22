@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" role="img" aria-label="Commercial project placeholder">
+  <rect width="900" height="1125" fill="#ded9cf"/>
+  <rect x="120" y="180" width="660" height="680" fill="#f4f0e8"/>
+  <rect x="220" y="300" width="460" height="300" fill="#b0a89c"/>
+  <path d="M120 860h660M220 720h460" stroke="#373431" stroke-width="3" opacity=".55"/>
+  <text x="80" y="1030" fill="#34322f" font-family="Arial, sans-serif" font-size="26" letter-spacing="5">COMMERCIAL 01</text>
+</svg>

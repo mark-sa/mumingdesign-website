@@ -1,0 +1,32 @@
+项目名称：
+请填写项目名称
+
+项目类型：
+请填写项目类型，例如 Hospitality / Residential / Commercial / Public Space / AI Workflow
+
+项目地点：
+请填写项目地点
+
+设计范围：
+请填写设计范围，例如概念设计 / 方案设计 / AI视觉表达 / 顾问服务
+
+项目状态：
+请填写项目状态，例如 Concept Design / Schematic Design / Completed / AI Visualization
+
+设计背景：
+请填写项目背景。
+
+空间问题：
+请填写项目原始问题或甲方需求。
+
+设计策略：
+请填写设计方法和空间逻辑。
+
+材料与光线：
+请填写主要材料、色彩、光线和空间氛围。
+
+AI辅助设计过程：
+请填写AI参与的具体环节。
+
+项目总结：
+请填写项目最终希望呈现的价值。

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" role="img" aria-label="Studio image placeholder">
+  <rect width="900" height="1125" fill="#d5d0c7"/>
+  <rect x="80" y="90" width="740" height="945" fill="none" stroke="#9e978c" stroke-width="2"/>
+  <rect x="180" y="230" width="210" height="260" fill="#a8a196"/>
+  <rect x="420" y="230" width="300" height="140" fill="#eee9df"/>
+  <rect x="420" y="400" width="300" height="90" fill="#2c2b29"/>
+  <path d="M180 650h540M180 705h420M180 760h500" stroke="#8d867c" stroke-width="3"/>
+  <text x="90" y="1040" fill="#3a3834" font-family="Arial, sans-serif" font-size="24" letter-spacing="5">ABOUT STUDIO</text>
+</svg>
