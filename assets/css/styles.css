@@ -419,6 +419,7 @@ p {
   content: "";
   transform: translateX(0);
   transition: transform 1100ms cubic-bezier(.77, 0, .18, 1);
+  pointer-events: none;
 }
 
 .image-reveal img {
