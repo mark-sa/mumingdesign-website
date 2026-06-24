@@ -138,6 +138,7 @@ const fallbackProjects = [
     images: [
       "assets/images/projects/residential/liaigre_residence_living_01.jpg.png",
       "assets/images/projects/residential/liaigre_residence_Dining room_01.jpg.png",
+      "assets/images/projects/residential/liaigre_residence_kitchen_dining_02.png",
       "assets/images/projects/residential/liaigre_residence_bedroom_01.jpg.png",
       "assets/images/projects/residential/liaigre_residence_bathroom_01.jpg.png"
     ],
