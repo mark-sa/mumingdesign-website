@@ -86,6 +86,7 @@ const fallbackProjects = [
     year: "2025",
     status: "Concept Design",
     cover: "assets/images/projects/hospitality/western-sichuan-mountain-retreat/western_sichuan_mountain_retreat_01.jpeg",
+    video: "assets/videos/projects/western-sichuan-mountain-retreat.mp4",
     images: [
       "assets/images/projects/hospitality/western-sichuan-mountain-retreat/western_sichuan_mountain_retreat_01.jpeg",
       "assets/images/projects/hospitality/western-sichuan-mountain-retreat/western_sichuan_mountain_retreat_02.jpeg",
@@ -113,6 +114,7 @@ const fallbackProjects = [
     year: "2025",
     status: "Concept Design",
     cover: "assets/images/projects/residential/taiwan_villa_living_01.jpg.jpg",
+    video: "assets/videos/projects/chiayi-private-villa.mp4",
     images: [
       "assets/images/projects/residential/taiwan_villa_living_01.jpg.jpg",
       "assets/images/projects/residential/taiwan_villa_Entrance_01.jpg.jpeg",
@@ -171,6 +173,7 @@ const fallbackProjects = [
     year: "2025",
     status: "Concept Design",
     cover: "assets/images/projects/commercial/xilin_fashion_store_01.jpg.jpg",
+    video: "assets/videos/projects/xilin-fashion-brand.mp4",
     images: [
       "assets/images/projects/commercial/xilin_fashion_store_01.jpg.jpg",
       "assets/images/projects/commercial/xilin_fashion_store_02.jpg.jpg",
@@ -195,6 +198,7 @@ const fallbackProjects = [
     year: "2026",
     status: "Concept Design",
     cover: "assets/images/projects/public-space/forest_lodge_pbsa_01.jpg.png",
+    video: "assets/videos/projects/forest-lodge-pbsa.mp4",
     images: [
       "assets/images/projects/public-space/forest_lodge_pbsa_01.jpg.png",
       "assets/images/projects/public-space/forest_lodge_pbsa_02.jpg.png",
@@ -485,6 +489,22 @@ function renderProjectDetail(projects) {
       <img class="${index === 0 || index === images.length - 1 ? "wide" : ""}" src="${image}" alt="${title} image ${index + 1}" loading="lazy" data-lightbox-src="${image}" data-lightbox-alt="${title} image ${index + 1}" />
     `).join("");
     bindLightboxImages();
+  }
+
+  const videoSection = document.querySelector("[data-detail-video-section]");
+  const video = document.querySelector("[data-detail-video]");
+  if (videoSection && video) {
+    if (project.video) {
+      video.src = project.video;
+      video.poster = project.cover;
+      video.setAttribute("aria-label", `${title} project film`);
+      videoSection.hidden = false;
+      video.load();
+    } else {
+      video.removeAttribute("src");
+      video.removeAttribute("poster");
+      videoSection.hidden = true;
+    }
   }
 }
 

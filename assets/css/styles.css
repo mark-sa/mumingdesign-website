@@ -629,6 +629,19 @@ p {
   aspect-ratio: 16 / 8;
 }
 
+.project-video-section video {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  margin-top: 42px;
+  border: 1px solid rgba(141, 247, 255, 0.22);
+  background: var(--color-black);
+  object-fit: contain;
+}
+
+.project-video-section[hidden] {
+  display: none;
+}
+
 .service-list {
   display: grid;
   gap: 0;

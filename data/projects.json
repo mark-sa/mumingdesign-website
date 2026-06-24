@@ -37,6 +37,7 @@
         "year":  "2025",
         "status":  "Concept Design",
         "cover":  "assets/images/projects/hospitality/western-sichuan-mountain-retreat/western_sichuan_mountain_retreat_01.jpeg",
+        "video":  "assets/videos/projects/western-sichuan-mountain-retreat.mp4",
         "images":  [
                        "assets/images/projects/hospitality/western-sichuan-mountain-retreat/western_sichuan_mountain_retreat_01.jpeg",
                        "assets/images/projects/hospitality/western-sichuan-mountain-retreat/western_sichuan_mountain_retreat_02.jpeg",
@@ -71,6 +72,7 @@
         "year":  "2025",
         "status":  "Concept Design",
         "cover":  "assets/images/projects/residential/taiwan_villa_living_01.jpg.jpg",
+        "video":  "assets/videos/projects/chiayi-private-villa.mp4",
         "images":  [
                        "assets/images/projects/residential/taiwan_villa_living_01.jpg.jpg",
                        "assets/images/projects/residential/taiwan_villa_Entrance_01.jpg.jpeg",
@@ -156,6 +158,7 @@
         "year":  "2025",
         "status":  "Concept Design",
         "cover":  "assets/images/projects/commercial/xilin_fashion_store_01.jpg.jpg",
+        "video":  "assets/videos/projects/xilin-fashion-brand.mp4",
         "images":  [
                        "assets/images/projects/commercial/xilin_fashion_store_01.jpg.jpg",
                        "assets/images/projects/commercial/xilin_fashion_store_02.jpg.jpg",
@@ -189,6 +192,7 @@
         "year":  "2026",
         "status":  "Concept Design",
         "cover":  "assets/images/projects/public-space/forest_lodge_pbsa_01.jpg.png",
+        "video":  "assets/videos/projects/forest-lodge-pbsa.mp4",
         "images":  [
                        "assets/images/projects/public-space/forest_lodge_pbsa_01.jpg.png",
                        "assets/images/projects/public-space/forest_lodge_pbsa_02.jpg.png",
